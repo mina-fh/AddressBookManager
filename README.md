@@ -2,6 +2,9 @@
 
 This README provides an overview of an address book management program. The program allows users to perform various operations on a list of addresses, such as reading from a file, sorting, adding, deleting, and writing the results to files.
 
+## Acknowledgements
+This project was completed as part of my university assignment assigned by Professor Toshiharu Kawasaki.
+
 **Menu Options**
 The program offers the following menu options:
 
