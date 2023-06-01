@@ -5,6 +5,8 @@ This README provides an overview of an address book management program. The prog
 ## Acknowledgements
 This project was completed as part of my university assignment assigned by Professor Toshiharu Kawasaki.
 
+### Program Explanation: 
+
 **Menu Options**
 The program offers the following menu options:
 
