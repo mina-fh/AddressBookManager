@@ -6,16 +6,25 @@ This README provides an overview of an address book management program. The prog
 The program offers the following menu options:
 
 MENU
+
 1: Load Address Book
+
 2: Overwrite Address Book
+
 3: Sort
+
 4: Add
+
 5: Delete
+
 6: Write Results (to result file)
+
 0: Exit
+
 
 The user can input the menu number from the keyboard to execute the corresponding operation. 
 To prompt the user for input, the program displays the following message:
+
 Enter menu number >
 
 **Functionality**
